@@ -1,4 +1,4 @@
-let numberArray = [1, 2, 34, 54, 65, 32, 56, 67, 23, 76]
+let numberArray = [1, 2, 34, 54, 65, 32, 56, 67, 23, 76];
 
 Array.prototype.descOrder = function () {
     for (let i = 0; i < this.length; i++) {
@@ -11,8 +11,8 @@ Array.prototype.descOrder = function () {
         }
     }
 
-    return this
+    return this;
 
 }
 
-console.log("Decending order = ", numberArray.descOrder())
+console.log("Decending order = ", numberArray.descOrder());

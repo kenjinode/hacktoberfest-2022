@@ -2,8 +2,8 @@
 
 // Return the Sum of Two Numbers #1
 
-function sum($x, $y) {
-	return $x + $y;
+function sum($y, $w) {
+	return $y + $w;
 }
 
 echo "Sum of Two Numbers: " . sum(5, 6);

@@ -10,7 +10,7 @@ function findLargest($array){
     return print_r(max($array));
 }
 
-findLargest([1,4,5,4,2,5,7,3]);
+findLargest([1,4,5,4,2,5,7,8,3]);
 
 
 function sumOfNumbers($array){

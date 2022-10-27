@@ -1,4 +1,4 @@
-let numberArray = [1, 2, 34, 54, 65, 32, 56, 67, 23, 76, 20,23,21,27,56]
+let numberArray = [1, 2, 34, 54, 65, 32, 56, 67, 23, 76, 20,23,21,56]
 
 Array.prototype.findLargest = function () {
     let maxValue = this[0]

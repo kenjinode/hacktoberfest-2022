@@ -14,5 +14,4 @@ Array.prototype.descOrder = function () {
     return this
 
 }
-
 console.log("Decending order = ", numberArray.descOrder())

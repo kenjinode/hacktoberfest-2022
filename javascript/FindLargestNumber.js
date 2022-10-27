@@ -8,7 +8,7 @@ Array.prototype.findLargest = function () {
         }
     }
 
-    return maxValue
+    return maxValue 
 
 }
 

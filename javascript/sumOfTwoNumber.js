@@ -4,4 +4,4 @@ const sumoftwonumber = (num1,num2) => {
     return total;
 }
 
-console.log("Sum of Two Number = ", sumoftwonumber(10, 20))
+console.log("Sum of Two Number = ", sumoftwonumber(10, 20));

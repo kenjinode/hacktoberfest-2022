@@ -1,4 +1,4 @@
-max = int(input("please enter the maximum value : "))
+max = int(input("please enter the max value : "))
 Oddtotal = 0
 
 for num in range(1, max + 1):

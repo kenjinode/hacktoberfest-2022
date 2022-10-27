@@ -8,8 +8,8 @@ Array.prototype.findLargest = function () {
         }
     }
 
-    return maxValue
+    return maxValue;
 
 }
 
-console.log("Decending order = ", numberArray.findLargest())
+console.log("Decending order = ", numberArray.findLargest());
